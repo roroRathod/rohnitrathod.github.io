@@ -1,0 +1,47 @@
+body {
+  margin : 0px;
+  padding: 15px 20px;
+  min-height: 99%;
+  width : 100%;
+  min-width: 550px;
+  color: #519975;
+  background-color: #211D1B;
+  font-family: 'cursor', monospace;
+}
+
+/* #banner {
+  padding: 20px;
+} */
+
+#header {
+  font-family: 'cursor', monospace;
+  color : #D9D7C7;
+
+}
+
+#terminal {
+  padding: 20px;
+  
+}
+
+#terminal-input {
+  background-color: #211D1B;
+  border: none;
+  color: #519975;
+  outline: none;
+}
+
+#command-descriptions {
+  color: #B89076;
+  padding: 20px;
+}
+
+.command {
+  color: #73ABAD; /* Change the color to your preference */
+  text-shadow: 0 0 5px #73ABAD;
+}
+
+.description {
+  color: #B89076;
+}
+
