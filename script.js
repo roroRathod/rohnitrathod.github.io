@@ -63,8 +63,8 @@ window.addEventListener("DOMContentLoaded", (event) => {
       case 'RESUME':
       case 'Resume':
       case 'resume':
-        output.innerHTML += '<p><span class="command">resume</span> <a href="https://drive.google.com/file/d/1RPGsxJZc0Eba_vaoJdrewvaUwEd_k1NM/view?usp=sharing">Click Here or type in command promt</a><p>';
-        window.open('https://drive.google.com/file/d/1RPGsxJZc0Eba_vaoJdrewvaUwEd_k1NM/view?usp=sharing');
+        output.innerHTML += '<p><span class="command">resume</span> <a href="https://drive.google.com/file/d/15APNqO9NMeKW5G0GSRX8dE8vqFsAPVdV/view?usp=drive_link">Click Here or type in command promt</a><p>';
+        window.open('https://drive.google.com/file/d/15APNqO9NMeKW5G0GSRX8dE8vqFsAPVdV/view?usp=drive_link');
         break;
 
       case 'GITHUB':
