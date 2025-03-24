@@ -88,8 +88,8 @@ window.addEventListener("DOMContentLoaded", (event) => {
       case 'Twitter':
       case 'X':
       case 'x':
-        output.innerHTML += '<p><span class="command">resume</span> <a href="https://twitter.com/RathodRohnit">Click Here or type in command promt</a><p>';
-        window.open('https://twitter.com/RathodRohnit');
+        output.innerHTML += '<p><span class="command">resume</span> <a href="https://x.com/roroRattatoille">Click Here or type in command promt</a><p>';
+        window.open('https://x.com/roroRattatoille');
         break;
       
       case 'SOCIALS':
